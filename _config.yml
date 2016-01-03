@@ -11,3 +11,12 @@ github_username:  rogerogden
 
 # Build settings
 markdown: kramdown
+
+#Required gems for Github Pages
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
+
+- jekyll-feed

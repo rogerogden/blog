@@ -5,7 +5,7 @@ email: ogderoge@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The Relativity Transit is weblog about programming, design, photography, and more.
 url: "http://rogerogden.github.io" # the base hostname & protocol for your site
-baseurl: "/home" # the subpath of your site, e.g. /blog/
+#baseurl: "/home" # the subpath of your site, e.g. /blog/
 twitter_username: _rogerogden
 github_username:  rogerogden
 
@@ -18,5 +18,4 @@ gems:
 - jemoji
 - jekyll-redirect-from
 - jekyll-sitemap
-
 - jekyll-feed

@@ -3,7 +3,6 @@ layout: post
 title:  "Hello, World."
 date:   2016-01-02
 categories: personal
-image: roon3.jpeg
 ---
 
 Hello, World! Welcome to The Relativity Transit.

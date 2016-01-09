@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: page
 title: "Colophon"
 video: false
 permalink: /colophon
 ---
+{% include head.html %}
+{% include header.html %}
+
 #Colophon
 
 The Relativity Transit is written by Roger Ogden. 

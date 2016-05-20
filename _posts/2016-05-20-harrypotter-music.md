@@ -2,7 +2,6 @@
 layout: post
 title: The Music of Harry Potter
 date: 2016-05-20
-video: false
 ---
 
 >“Ah, music," he said, wiping his eyes. "A magic beyond all we do here!” &mdash; Albus Dumbledore

@@ -11,6 +11,3 @@ github_username:  rogerogden
 
 # Build settings
 markdown: kramdown
-
-#Break Seperator:
-excerpt_seperator: <!–break–>

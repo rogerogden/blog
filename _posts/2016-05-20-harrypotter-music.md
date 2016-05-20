@@ -5,8 +5,9 @@ date: 2016-05-20
 video: false
 ---
 
-I grew up infatuated with the Harry Potter series. I read every single book within a week of it coming out. I'd skip meals, and I'd stay up after my parents had thought they tucked me in for the night to read just _one_ more chapter.
+>“Ah, music," he said, wiping his eyes. "A magic beyond all we do here!” &mdash; Albus Dumbledore
 
+I grew up infatuated with the Harry Potter series. I read every single book within a week of it coming out. I'd skip meals, and I'd stay up after my parents had thought they tucked me in for the night to read just _one_ more chapter.
 
 When the movies came out, I was incredibly excited, and I'm happy that they're a rare occurrence, in that the book-to-film adapatation was incredibly well-done. Something I hadn't considered when I was younger, and something that I increasingly appreciate, is the music that accompanies the films.
 

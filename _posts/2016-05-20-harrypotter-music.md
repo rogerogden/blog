@@ -8,8 +8,6 @@ video: false
 
 I grew up infatuated with the Harry Potter series. I read every single book within a week of it coming out. I'd skip meals, and I'd stay up after my parents had thought they tucked me in for the night to read just _one_ more chapter.
 
-<!–break–>
-
 When the movies came out, I was incredibly excited, and I'm happy that they're a rare occurrence, in that the book-to-film adapatation was incredibly well-done. Something I hadn't considered when I was younger, and something that I increasingly appreciate, is the music that accompanies the films.
 
 I recently learned that the scores for both _Harry Potter and the Sorcerer's Stone_ and _Harry Potter and the Prisoner of Azkaban_ were done by the infallible [John Williams](https://en.wikipedia.org/wiki/John_Williams). It just so happens that those two scores are perhaps my favorites of all the films. However, the other films' composers: Nicholas Hooper, Patrick Doyle, and Alexandre Desplat do a great job of capturing the mood of the films, particularly _Showdown_, which appears on the _Harry Potter and the Deathly Hallows - Part 2_ score and documents the final battle between Voldemort and the Hogswarts crew.

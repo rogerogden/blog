@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Music of Harry Potter
+title: "The Music of Harry Potter"
 date: 2016-05-20
 ---
 

@@ -1,6 +1,6 @@
 # Site settings
 title: "Relativity Transit" 
-email: ogderoge@gmail.com
+email: desk@relativitytransit.com
 description: > # this means to ignore newlines until "baseurl:"
   Relativity Transit is a weblog about programming, photography, design, and more written by Roger Ogden.
 url: "http://rogerogden.github.io" # the base hostname & protocol for your site

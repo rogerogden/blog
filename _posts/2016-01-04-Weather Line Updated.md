@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Weather Line v1.8 Released
+title: "Weather Line v1.8 Released"
 date: 2017-Jan-04
 ---
 

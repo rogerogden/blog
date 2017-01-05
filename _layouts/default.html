@@ -24,6 +24,9 @@
         no_schema_links();
       }
     </script>
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
   </body>
 
 </html>

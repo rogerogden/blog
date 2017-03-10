@@ -3,7 +3,7 @@
 var canvas   = document.getElementById('spring-grass'),
     ctx      = canvas.getContext('2d'),
     stack    = [],
-    w        = window.innerWidth/3,
+    w        = window.innerWidth > 1250 ? window.innerWidth/3 : window.innerWidth/2,
     h        = 25;
 
 var drawer = function(){

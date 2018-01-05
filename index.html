@@ -29,8 +29,7 @@ body_class: "home-template user"
           </header>
 
           <div class="text">
-              <p>{{ post.excerpt }}</p>
-              <a href="{{ post.url | prepend: site.baseurl }}" class="readmore">Continue Reading</a>
+            {{ post.excerpt }}
           </div>
       </article>
       {% endfor %}

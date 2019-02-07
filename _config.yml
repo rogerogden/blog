@@ -3,7 +3,7 @@ title: "Relativity Transit"
 email: r@relativitytransit.com
 description: > # this means to ignore newlines until "baseurl:"
   Relativity Transit is a weblog written by Roger Ogden.
-url: "http://rogerogden.github.io" # the base hostname & protocol for your site
+url: "https://roger-ogden.netlify.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: _rogerogden
 github_username:  rogerogden
